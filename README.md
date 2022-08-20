@@ -4,3 +4,7 @@ Ele nos desafiou a fazermos este pequeno mapa apenas em html com as imagens para
 E foi assim que ficou:
 
 ![image](https://user-images.githubusercontent.com/83431949/185761181-6edbe502-d5a0-486c-9bf7-63fff62bdfa8.png)
+
+
+Futuramente, com o decorrer dos estudos, pretendo alterar este mapa, fazer com que fique centralizado e sem esses espaços em branco entre as imagens, fazendo com que
+"colem" uma na outra
